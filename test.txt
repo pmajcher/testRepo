@@ -1,4 +1,2 @@
 Test
-Feature 1
-
-HOT FIX
+Feature 3
